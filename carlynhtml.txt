@@ -1,0 +1,39 @@
+\<!DOCTYPE html><!--this is describes the document type-->
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="an awesome website">
+<title>Carlyn's website</title>
+</head>
+<body style="background-color:BurlyWood">
+<h1>Carlyn's website</h1>
+<h2>Welll This is me</h2>
+<hr/>
+<div>
+<p>My name is Carlyn. Ofcos you all know that.Let me tell you a little about myself.<br/>
+I love eating but not food that is good for my health.I love junk and that is probably why i am always sick.<br/>
+Oh well you only live once so i am going to eat whatever whenever.</p>
+<p>I love watching Korean dramas, they are amazing. My favorite one so far is .... I cant choose i love all of them.</p>
+ </div>
+<div style="background-color=CornflowerBlue;">
+<p>The other day I was talking to God and I gave him a list of the things I would like my future husband to have.
+You all want to know?
+Let me give you a list.<br/> I want my future husband to be:
+<ol>
+<li> A doctor(I want someone that saves people)</li>
+<li> Tall</li>
+<li>A little light skinned not so light not so dark.</li>
+<li>A believer(I dont want to be with someone that does not love God because I live for Christ).</li>
+<li>Quiet,leave all the talking to me.</li>
+<li>Someone who loves their family.</li>
+</ol>
+The list is endless but I'll stop there.
+</div>
+<div>
+<p>If I wont get married to a Kenyan which I dont want then Vlad is perfect for me.</p>
+<img src="https://n1s2.hsmedia.ru/0f/29/66/0f2966d86647e022707000bfcca90aa8/476x591_0xac120003_16912950481616871912.jpg" >
+<p>I hope God will hear my Vlad request.<br/>Anyway msinipigie I am sick and unable to speak.I shall not present.<br/>Rodney dont waste your credit</p>
+<p style="color=red; font-size:20;">BYE!!!!!DO NOT CALL ME <b>RODNEY</b></p>
+</body>
+<!--this is what we use to comment-->
+</html>
